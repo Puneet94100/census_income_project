@@ -17,7 +17,7 @@ To downlad the data set you can refer to this link:-
 https://archive.ics.uci.edu/ml/datasets/census+income
 
 
-
+![census_dataset](https://user-images.githubusercontent.com/114376944/210140269-d7e988cc-dc10-40ec-a342-77dad7ccecf8.PNG)
 
 ## Importance or Use case
 
