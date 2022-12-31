@@ -2,6 +2,11 @@
 # Title of Project
 
 ## Census income Prediction
+
+           
+
+                  ![census](https://user-images.githubusercontent.com/114376944/210140556-663f6594-9ae9-4c2f-bc71-b130bf3d24ad.PNG)
+           
 # Description
 The census income data set was extracted from 1994 US Census bureau database.
 The data set contains lots of feaures like age, workclass, education etc. The data set contains one target columns that is income.
