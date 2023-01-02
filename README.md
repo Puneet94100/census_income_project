@@ -83,6 +83,6 @@ https://colab.research.google.com/
 ## Future work
 
 - We can also do hyperparameter tuning by using Grid Search CV or Random Search CV to find out best parameters
-- We can also apply deep learning algorithm hyperparameter
-- We will test our model
+- We can also apply deep learning
+- Test our model
 - After testing we will deploy the model
